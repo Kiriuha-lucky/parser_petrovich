@@ -1,0 +1,18 @@
+{
+  "name": "parser_petrovich",
+  "version": "1.0.0",
+  "description": "free parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Kir",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2",
+    "xlsx": "^0.18.5"
+  }
+}
